@@ -13,8 +13,3 @@
 
 ## 📫 Contact 
 [![Email](https://img.shields.io/badge/Email-samm0413@elevcampus.dk-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samm0413@elevcampus.dk)
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=notcryze&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notcryze&layout=compact&theme=radical)
