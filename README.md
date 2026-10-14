@@ -1,5 +1,5 @@
 ### Sammy  
-👨‍💻 Full-Stack Developer | **4+ years of experience**  
+👨‍💻 Full-Stack Developer | **5+ years of experience**  
 
 ## 💻 Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -12,4 +12,4 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📫 Contact 
-[![Email](https://img.shields.io/badge/Email-samm0413@elevcampus.dk-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samm0413@elevcampus.dk)
+[![Email](https://img.shields.io/badge/Email-sammyschroeder123@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammyschroeder123@gmail.com)
