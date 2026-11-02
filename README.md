@@ -1,5 +1,5 @@
 ### Sammy  
-👨‍💻 Full-Stack Developer | **5+ years of experience**  
+👨‍💻 Full-Stack Developer
 
 ## 💻 Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
